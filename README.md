@@ -104,4 +104,4 @@ Strengthening practical SOC skills through hands-on security labs, detection eng
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/harin-kadavala7/) · [Email](harinkadavala7@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/harin-kadavala7/) · [Email](mailto:harinkadavala7@gmail.com)
